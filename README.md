@@ -9,7 +9,6 @@ Link to Website : https://green-river-07b788010.1.azurestaticapps.net/
 
 
 # Screenshots : 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/83276177/183307877-f19a703d-1f70-4e6c-9e94-7edd64e89c3f.png">
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/83276177/183307834-46133b86-ff07-4214-805b-791c63be705d.png">
 
